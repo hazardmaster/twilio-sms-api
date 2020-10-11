@@ -1,4 +1,4 @@
-_deploy_
+# deploy
 
 
 Set .env file to the root directory and set your twilio api info
